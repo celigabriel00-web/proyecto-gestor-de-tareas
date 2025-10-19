@@ -15,7 +15,7 @@ Aplicación web para la gestión de tareas personales y de equipo. Permite crear
 
 ### Backend 
 - Node.js con Express.js
-- Base de datos: MongoDB (Mongoose)
+- Base de datos: PostgreSQL
 
 ## Estructura del Proyecto
 El proyecto está dividido en dos carpetas principales:
