@@ -23,7 +23,7 @@ El proyecto está dividido en dos carpetas principales:
 - Server: Incluye el backend, modelos, controladores, rutas, middlewares y la configuración del servidor.
 
 ## Diseño
-- **Figma:** [https://www.figma.com/make/8wHg9lrnpDPxxQU6XC9TwW/User-Authentication-and-Task-Management?node-id=0-1&t=W5k8HRDFQ1SyS83q-1]
+- **Figma:** [https://www.figma.com/design/lk889Wtl0dUOLj62lR9p60/Gestor-de-Tareas--Estilo-Todoist-?node-id=0-1&p=f&t=sfMNCh7pEB2WarZ5-0]
 - **Trello:** [https://trello.com/invite/b/68d0f177677e2725de8b0c33/ATTI3a90cda8887a72c0e12039572c3c800b63EBF099/gestor-de-tareas-estilo-todoist]
 
 ## Gestión Ágil
